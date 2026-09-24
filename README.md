@@ -39,7 +39,7 @@ https://img.shields.io/badge/Render-ready-success
 1. Clone the repository
 
 ```bash
-git clone https://github.com/cyber-punk-h/Icmr-and-hitek.git
+git clone https://github.com/nikhilraghav015-boop/Icmr-and-hitek.git
 cd Icmr-and-hitek
 ```
 
